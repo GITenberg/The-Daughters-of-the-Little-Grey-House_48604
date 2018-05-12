@@ -1,4 +1,8 @@
 _repo: The-Daughters-of-the-Little-Grey-House_48604
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48604-h/images/cover.jpg
 creator:
   author:
     agent_name: Taggart, Marion Ames
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '39964'
     url: http://www.gutenberg.org/2009/agents/39964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48604#The-Daughters-of-the-Little-Grey-House
 gutenberg_issued: '2015-03-29'
 gutenberg_type: Text
 identifiers:
